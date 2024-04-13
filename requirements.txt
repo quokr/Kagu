@@ -1,2 +1,3 @@
 fastapi
 korcen
+profanity-check
